@@ -1,0 +1,5 @@
+##The Pacman Game developed in Java is an exciting and interactive rendition of the classic arcade game. This project demonstrates my proficiency in Java programming, object-oriented design, and game development concepts.
+
+##In the Pacman Game, players control the iconic Pacman character, navigating through a maze filled with pellets and avoiding colorful ghost enemies. The objective is to eat all the pellets while avoiding or strategically consuming power-ups to turn the tables on the ghosts.
+
+##The game features a dynamic and visually appealing interface created using Java's Swing or JavaFX libraries. The maze is rendered on the screen, with each character represented by unique sprites. Sound effects and animations enhance the immersive experience, bringing the game to life.
